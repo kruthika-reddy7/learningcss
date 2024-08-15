@@ -20,7 +20,7 @@ body {
     display: flex;
     flex-direction: row;
     align-items:center;
-    color:blue
+    color:pink;
 }
 .a-element {
     padding: 10px;
